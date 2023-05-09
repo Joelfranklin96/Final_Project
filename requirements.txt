@@ -1,0 +1,12 @@
+Flask
+Flask-Session
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+Werkzeug
+PyPDF2
+bert-extractive-summarizer
+rake-nltk
+nltk
+pymongo

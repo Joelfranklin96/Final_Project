@@ -1,0 +1,19 @@
+As a student, I want to upload my research paper as a PDF file, so that I can analyze the top 10 keywords and generate a summary to use for my presentation.
+
+As a journalist, I want to upload a PDF article, so that I can quickly identify the key points and generate a summary to use for my news story.
+
+As a business analyst, I want to upload a PDF report, so that I can extract the most relevant information and generate a summary to share with my team.
+
+As a lawyer, I want to upload a PDF legal document, so that I can quickly identify the most important terms and generate a summary to use for my case preparation.
+
+As a researcher, I want to upload a PDF scientific paper, so that I can identify the key concepts and generate a summary to use for my literature review.
+
+As a teacher, I want to upload a PDF textbook chapter, so that I can analyze the main topics and generate a summary to use for my lecture.
+
+As a marketer, I want to upload a PDF brochure, so that I can extract the most important features and benefits and generate a summary to use for my advertising campaign.
+
+As a doctor, I want to upload a PDF medical report, so that I can quickly identify the patient's condition and generate a summary to use for my diagnosis.
+
+As a recruiter, I want to upload a PDF resume, so that I can quickly identify the candidate's skills and experience and generate a summary to use for my interview.
+
+As a financial analyst, I want to upload a PDF annual report, so that I can extract the most relevant financial data and generate a summary to use for my investment analysis.

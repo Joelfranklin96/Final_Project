@@ -1,0 +1,15 @@
+Please run the following commands
+
+pip install -r requirements.txt
+python nltk_setup.py
+python wsgi.py
+
+The website is launched at http://localhost:5000
+
+Please login using the gmail account
+
+Please upload the pdf
+
+Please choose 'Extract Keywords' or 'Generate Summmary' from the drop down menu
+
+Please click on 'Upload and Analysis'
