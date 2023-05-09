@@ -1,5 +1,7 @@
 # ECE Software Engineering Final Project - Spring 2023
 
+[Demo Video](https://drive.google.com/file/d/1H65_E3qXuOnRlH9AbZd2DZwwVLL8HJUn/view?usp=share_link)
+
 ## Introduction
 
 This repository contains the code for the final project in the ECE Software Engineering course for Spring 2023. The project is a web-based application that allows users to analyze PDF documents. The application is built using Flask, a Python-based web framework, and implements Google OAuth for user authentication.
