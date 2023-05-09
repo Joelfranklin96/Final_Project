@@ -1,5 +1,3 @@
-# Final_Project
-
 # ECE Software Engineering Final Project - Spring 2023
 
 ## Introduction
