@@ -6,6 +6,14 @@
 
 This repository contains the code for the final project in the ECE Software Engineering course for Spring 2023. The project is a web-based application that allows users to analyze PDF documents. The application is built using Flask, a Python-based web framework, and implements Google OAuth for user authentication.
 
+## Project Overview
+
+This project aims to provide a web-based solution for PDF document analysis. It includes functionalities such as:
+
+- Reading and storing contents of PDF documents in a MongoDB database.
+- Providing a summary of the document.
+- Extracting the top 10 most common keywords from the document.
+
 ## Features
 
 - **Google OAuth Authentication:** Users can log in to the application using their Google accounts.
